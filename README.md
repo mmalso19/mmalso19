@@ -1,8 +1,12 @@
 ## 👋 Hi, I'm Mukhtar Al-Somali
 
-🚀 Flutter Developer | Mobile App Engineer
+Welcome to my GitHub profile!
 
-I build clean, scalable, and high-performance mobile applications using **Flutter & Dart**.
+I'm a junior software developer currently focused on strengthening my backend development skills. My goal is to gain hands-on experience in creating seamless, user-friendly full-stack applications and websites.
+
+While most of my current projects reside on the server-side, I am here to actively learn, grow, and explore modern frontend tools and frameworks to round out my skillset.
+
+I'm open to collaboration and eager to contribute!
 
 ---
 
@@ -12,12 +16,11 @@ For freelance or collaboration, feel free to reach me at:
 
 ---
 
-### 🛠 Tech Stack
-- Flutter & Dart
-- REST APIs
-- Firebase
-- State Management (Provider / Bloc / Riverpod)
-- Clean Architecture
+### 🛠 Programming Languages 
+- C++
+### 🛠 Frameworks & Tools 
+- Git
+- VS Code 
 - Git & GitHub
 
 ---
