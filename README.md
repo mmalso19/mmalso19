@@ -8,7 +8,7 @@ I build clean, scalable, and high-performance mobile applications using **Flutte
 
 ### 💼 Freelance Work
 For freelance or collaboration, feel free to reach me at:  
-📧 **<your-email@gmail.com>**
+📧 **<omaralmukhtar.oa@gmail.com>**
 
 ---
 
